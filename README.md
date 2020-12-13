@@ -1,1 +1,1 @@
-# prj-37
+# VirtualPet-3_whiteHatJr_project
